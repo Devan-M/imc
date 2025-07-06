@@ -17,4 +17,4 @@ Este projeto é uma calculadora de IMC que permite ao usuário calcular o Índic
 3. Execute o arquivo Python usando o comando:
 
 ```sh
-python calculadora_imc.py
+python imc.py
